@@ -44,6 +44,10 @@ Financial and trading correctness take priority over delivery speed. Development
 
 This repository is also a serious learning project for Python backend and full-stack engineering, AI engineering, Web3 concepts, and high-quality iOS development. Learning goals do not override product safety or engineering quality.
 
+## Engineering approach
+
+The project uses a structured AI-assisted development workflow with explicit learning, assistance, and automation modes. Generated work is held to the same quality standards as manually written work, while architecture and domain decisions remain human-reviewed. See the [development protocol](docs/engineering/development-protocol.md), [AI-assisted development guide](docs/engineering/ai-assisted-development.md), and [quality standards](docs/engineering/quality-standards.md).
+
 ## Development status
 
 ### Current
