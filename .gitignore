@@ -1,0 +1,17 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+.idea/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Local logs
+*.log
